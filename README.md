@@ -48,7 +48,7 @@ For any questions or support, feel free to reach out to me:
 
 - **GitHub**: [https://github.com/Danslvck](https://github.com/Danslvck)
 - **Email**: [DanielShavershian@proton.me](mailto:anielShavershian@proton.me)
-- **Discord**: [Daniel discord](https://discord.com/users/1278171136747634778)
+- **Discord**: [https://discord.com/user/danslvck](https://discord.com/users/1278171136747634778)
 
 
    
