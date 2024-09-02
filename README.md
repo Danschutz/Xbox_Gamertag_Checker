@@ -20,7 +20,7 @@ This version is tailored for Windows environments and supports console customiza
 
 1. Download the "Gamertags Checker - Windows Version.py" file and download the requirements
 2. Download the "requirements.txt" file
-3. Open your command prompt and write: "pip install -r requirements.txt"
+3. Open your command prompt and write: "pip install requests"
 4. right after write "python Gamertags Checker - Windows Version.py"
 5. and just write the amount of characters you want in your gamertag
 
