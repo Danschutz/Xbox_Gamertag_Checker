@@ -46,9 +46,8 @@ This Python script checks for available Xbox gamertags and sends notifications t
 
 For any questions or support, feel free to reach out to me:
 
-- **GitHub**: [https://github.com/Danslvck](https://github.com/Danslvck)
-- **Email**: [DanielShavershian@proton.me](mailto:anielShavershian@proton.me)
-- **Discord**: [https://discord.com/user/danslvck](https://discord.com/users/1278171136747634778)
+- **Email**: [DanielSantzs18@gmail.com(mailto:mailto:DanielSantzs18@gmail.com)
+- **Discord**: [https://discord.com/user/DanielSantzs](https://discord.com/users/1283088407052156982)
 
 
    
